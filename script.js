@@ -1,1 +1,4 @@
-console.log("Destiny On Repeat Loaded");
+function showMessage() {
+    document.getElementById("message").innerHTML =
+    "✨ Welcome to the story of Pihu & Punnu ❤️ ✨";
+}
