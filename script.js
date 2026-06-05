@@ -1,3 +1,3 @@
-function showMessage() {
-document.getElementById(“message”).innerHTML = “Button works!”;
-}
+funtion showMessage(){'
+document.getElementByld(''message'').innerHTML=''Button works!'';
+                     }
