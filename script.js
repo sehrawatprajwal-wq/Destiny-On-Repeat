@@ -23,7 +23,6 @@ on the same page. ❤️
 <h2>Chapter 2 🌙</h2>
 
 <p>
-
 Pihu was calm.<br>
 Thoughtful.<br>
 Graceful.<br><br>
@@ -33,13 +32,29 @@ Spontaneous.<br>
 Always chasing horizons.<br><br>
 
 They weren't the same.<br>
-
 And maybe that was the magic.<br><br>
 
 Because sometimes two different souls
 fit together perfectly. ❤️
+</p>
 
+<br><br>
+
+<h2>Chapter 3 💫</h2>
+
+<p>
+Some conversations became memories.<br>
+Some moments became comfort.<br><br>
+
+Slowly, without realizing it,<br>
+they became each other's favourite place.<br><br>
+
+Not because life was perfect,<br>
+but because they chose each other.<br><br>
+
+And that changed everything. ❤️
 </p>
 
 `;
+
 }
